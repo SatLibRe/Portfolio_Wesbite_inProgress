@@ -79,6 +79,7 @@ body {
 {
 	background-color:#74b9ff;
 	color: #fff;
+	padding: 20px;
 }
 
 .skill {
@@ -228,6 +229,8 @@ width: 100%
 
 .itemsContainer {
 	width: 100%;
+	margin-left: 20%;
+
 }
 
 .items li img {
